@@ -13,13 +13,9 @@ import java.time.LocalDateTime;
 public class GuestbookDTO {
 
     private Long gno;
-
     private String title;
-
     private String content;
-
     private String writer;
-
     private LocalDateTime regDate, modDate;
 
 }
